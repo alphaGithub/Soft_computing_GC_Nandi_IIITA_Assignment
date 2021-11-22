@@ -1,0 +1,2 @@
+# Soft_computing_GC_Nandi_IIITA_Assignment
+IIITA assignment
