@@ -1,4 +1,4 @@
-# Soft_computing_GC_Nandi_IIITA_Assignment
+# Soft computing, GC_Nandi, IIITA, Assignment
 Assignment
 IIITA 
 GC NANDI
